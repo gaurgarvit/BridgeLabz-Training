@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class palindromeNumber {
     public static void main(String[] args) {
-        Scanner s= new Scanner(System.in);
+        Scanner sc= new Scanner(System.in);
 
         // Input the number
         System.out.print("Enter a number: ");
-        int n= s.nextInt();
+        int n= sc.nextInt();
 
         int org= n;   // original number
         int reverse= 0;     //reversed number
