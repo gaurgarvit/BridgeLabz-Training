@@ -2,21 +2,20 @@ import java.util.Scanner;
 
 public class palindromeNumber {
     public static void main(String[] args) {
-
         Scanner s= new Scanner(System.in);
 
         // Input the number
         System.out.print("Enter a number: ");
-        int num= s.nextInt();
+        int n= s.nextInt();
 
-        int org= num;   // original number
+        int org= n;   // original number
         int reverse= 0;     //reversed number
 
         // Reverse the number
-        while (num > 0) {
-            int digit= num%10;          // Get last digit
+        while (n > 0) {
+            int digit= n%10;          // Get last digit
             reverse= reverse*10 + digit;   // Add digit to reverse number
-            num= num / 10;                // Remove last digit from num
+            n= n/ 10;                // Remove last digit from num
         }
 
         // Check if original and reversed are same
