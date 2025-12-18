@@ -4,17 +4,20 @@ public class areaOfTriangle {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
 
-        // taking base
-        System.out.print("Enter the base of the triangle: ");
-        double base = s.nextDouble();
+        // taking base as input
+        System.out.print("Enter base (cm): ");
+        double base= s.nextDouble();
 
-        // taking height
-        System.out.print("Enter the height of the triangle: ");
-        double height = s.nextDouble();
+        // taking height as input
+        System.out.print("Enter height (cm): ");
+        double height= s.nextDouble();
 
-        // formula of area of triangle
-        double area = 0.5 * base * height;
+        // formula to calculate Area in sq cm
+        double areaSqCm= 0.5 * base * height;
 
-        System.out.println("The Area of the Triangle with base " +base +" and height " +height + " is " + area);
+        // conversion from sq cm to sq in
+        // 1 inch = 2.54 cm, 1 sq inch = 2.54 * 2.54 sq cm
+        double areaSqIn = areaSqCm / (2.54 * 2.54);
+        System.out.println("The Area of the triangle in sq in is "+ areaSqIn + " and sq cm is " + areaSqCm);
     }
 }
