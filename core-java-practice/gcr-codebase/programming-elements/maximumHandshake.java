@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class maximumHandshake {
+public class MaximumHandshake {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
 

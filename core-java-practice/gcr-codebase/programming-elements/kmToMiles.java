@@ -1,4 +1,4 @@
-public class kmToMiles {
+public class KmToMiles {
     public static void main(String[] args) {
         // distance in kilometers
         double km = 10.8;

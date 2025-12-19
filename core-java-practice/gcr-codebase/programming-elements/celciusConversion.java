@@ -1,5 +1,5 @@
 import java.util.*;
-public class celciusConversion{
+public class CelciusConversion{
 public static void main (String [] args){
 	//Input 
 	Scanner  input= new Scanner(System.in);

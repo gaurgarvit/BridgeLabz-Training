@@ -1,4 +1,4 @@
-public class averageOfSubjects {
+public class AverageOfSubjects {
     public static void main(String[] args) {
         // Marks of PCM
         int maths= 94;

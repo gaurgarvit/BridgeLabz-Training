@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class armstrong {
+public class Armstrong {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         System.out.print("Enter a number: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class feetToMiles {
+public class FeetToMiles {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
 

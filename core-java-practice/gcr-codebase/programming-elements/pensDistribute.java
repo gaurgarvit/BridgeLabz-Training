@@ -1,4 +1,4 @@
-public class pensDistribute {
+public class PensDistribute {
     public static void main(String[] args) {
         // total pens and total students
         int totalPens= 14;

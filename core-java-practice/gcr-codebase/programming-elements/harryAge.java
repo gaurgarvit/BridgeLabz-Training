@@ -1,4 +1,4 @@
-public class harryAge {
+public class HarryAge {
     public static void main(String[] args) {
         // Define the birth year and current year
         int birthYear= 2000;
