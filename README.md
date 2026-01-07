@@ -50,9 +50,9 @@ All programs listed below are implemented using **Java**. The focus throughout t
 ---
 
 ### 🗓️ Day 1 – 17 December 2025  
-**Programming Elements (Fundamentals)**  
-📁 `gcr-codebase/programming-elements`   
+**Programming Elements (Fundamentals)**     
 🔗 [Fundamentals](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+📁 `gcr-codebase/programming-elements`
 
 | Program Name | Description |
 |-------------|-------------|
