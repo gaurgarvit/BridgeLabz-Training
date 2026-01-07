@@ -22,12 +22,6 @@ BridgeLabz-Training/
 └── README.md
 ```
 
----
-
-## 🌿 Active Branch  
-
-**core-java-practice**  
-This branch contains all Core Programming implementations, organized topic-wise inside the `gcr-codebase` directory.
 
 ---
 
