@@ -33,7 +33,7 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 0 – 16 December 2025  
 **Kick-off Session (Training Onboarding)**
-🔗 **Day 0 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/main
+🔗  [Main](https://github.com/gaurgarvit/BridgeLabz-Training/tree/main)
 
 - Overview of BridgeLabz training workflow and expectations  
 - Introduction to Git & GitHub  
@@ -51,8 +51,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 1 – 17 December 2025  
 **Programming Elements (Fundamentals)**  
-🔗 **Day 1 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
-📁 `gcr-codebase/programming-elements`
+📁 `gcr-codebase/programming-elements`   
+🔗 [Fundamentals](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -97,8 +97,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 2 – 18 December 2025  
 **Programming Elements – Level 1 & Level 2**  
-🔗 **Day 2 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 📁 `gcr-codebase/programming-elements`
+🔗 [Programming Elements](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -128,8 +128,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 3 – 19 December 2025  
 **Control Flow Statements**  
-🔗 **Day 3 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 📁 `gcr-codebase/control-flow`
+🔗 [Control Flow Programs](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -164,8 +164,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 4 – 20 December 2025  
 **Arrays**  
-🔗 **Day 4 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 📁 `gcr-codebase/arrays`
+🔗 [Array Programs](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -190,8 +190,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 5 – 21 December 2025  
 **Strings**  
-🔗 **Day 5 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 📁 `gcr-codebase/strings`
+🔗 [String Programs](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -214,7 +214,7 @@ All programs listed below are implemented using **Java**. The focus throughout t
 - Character-by-character string traversal  
 - Frequency-based logic implementation  
 - Handling edge cases in string problems  
-- Writing logic without relying on built-in shortcuts  
+- Writing logic without relying on built-in shortcuts
 
 ---
 
