@@ -50,8 +50,9 @@ All programs listed below are implemented using **Java**. The focus throughout t
 ---
 
 ### 🗓️ Day 1 – 17 December 2025  
-**Programming Elements (Fundamentals)** 🔗 [Fundamentals](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-📁 `gcr-codebase/programming-elements`
+**Programming Elements (Fundamentals)**  
+📁 `gcr-codebase/programming-elements`   
+🔗 [Fundamentals](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -219,8 +220,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 6 – 22 December 2025  
 **Methods and Functions**  
-🔗 **Day 6 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
-📁 `gcr-codebase/methods-and-functions`
+📁 `gcr-codebase/methods-and-functions`   
+🔗 [Methods & Functions](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -246,8 +247,8 @@ All programs listed below are implemented using **Java**. The focus throughout t
 
 ### 🗓️ Day 7 – 23 December 2025  
 **Extras & Mixed Practice**  
-🔗 **Day 7 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
-📁 `gcr-codebase/extras`
+📁 `gcr-codebase/extras`   
+🔗 [Extras & Revision](https://github.com/gaurgarvit/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -273,8 +274,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 8 – 24 December 2026  
 **Classes and Objects**  
-🔗 **Day 8 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class_objects
 📁 `gcr-codebase/class_objects`
+🔗 [Classes & Objects](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class_objects)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -295,8 +296,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 9 – 25 December 2026  
 **Constructors**  
-🔗 **Day 9 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors
 📁 `gcr-codebase/constructors`
+🔗 [Constructors](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -319,8 +320,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 10 – 26 December 2026  
 **Java Keywords**  
-🔗 **Day 10 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords
 📁 `gcr-codebase/keywords`
+🔗 [Java Keywords](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -340,8 +341,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 11 – 27 December 2026  
 **Object-Oriented Design Principles**  
-🔗 **Day 11 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-relations
-📁 `gcr-codebase/object-relations`
+📁 `gcr-codebase/object-relations`  
+🔗 [Object Relationships](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-relations)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -359,8 +360,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 12 – 28 December 2026  
 **Inheritance**  
-🔗 **Day 12 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
 📁 `gcr-codebase/inheritance`
+🔗 [Inheritance](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -379,8 +380,8 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ### 🗓️ Day 13 – 29 December 2026  
 **Other Pillars of OOP**  
-🔗 **Day 13 Work:** https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/polymorphism
 📁 `gcr-codebase/polymorphism`
+🔗 [Polymorphism](https://github.com/gaurgarvit/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/polymorphism)
 
 | Program Name | Description |
 |-------------|-------------|
@@ -398,4 +399,4 @@ All programs listed below are implemented using **Java**. This phase focuses on 
 
 ---
 
-⭐ **This repository will continue to evolve as I progress further in the BridgeLabz training program.**
+**This repository will continue to evolve as I progress further in the BridgeLabz training program.**
