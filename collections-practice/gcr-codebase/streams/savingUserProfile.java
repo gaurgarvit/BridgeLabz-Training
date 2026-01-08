@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class savingUserProfile {
+public class SavingUserProfile {
     public static void main(String[] args) {
         // using buffered reader for console input
         BufferedReader reader= new BufferedReader(new InputStreamReader(System.in));
