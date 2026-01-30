@@ -1,6 +1,10 @@
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
-public class SavingUserProfile {
+public class savingUserProfile {
     public static void main(String[] args) {
         // using buffered reader for console input
         BufferedReader reader= new BufferedReader(new InputStreamReader(System.in));
