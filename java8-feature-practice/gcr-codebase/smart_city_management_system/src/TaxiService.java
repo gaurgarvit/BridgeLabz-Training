@@ -11,21 +11,21 @@ public class TaxiService implements TransportService{
 
     @Override
     public String getServiceName() {
-        return "";
+        return "Taxi";
     }
 
     @Override
     public String getRoute() {
-        return "";
+        return route;
     }
 
     @Override
     public double getFare() {
-        return 0;
+        return fare;
     }
 
     @Override
     public String getDepartureTime() {
-        return "";
+        return time;
     }
 }
