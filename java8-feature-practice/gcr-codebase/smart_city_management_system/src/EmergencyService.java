@@ -1,0 +1,3 @@
+interface EmergencyService {
+    // marker interface
+}
