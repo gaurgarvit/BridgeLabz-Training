@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class BinaryGenerator{
+    public static void main(String[] args) {
+        int n= 5;
+        Queue<String> queue= new LinkedList<>();
+        queue.add("1");
+        List<String> result= new ArrayList<>();
+
+        // generating n binary numbers
+        for(int i=0;i<n;i++){
+            String current= queue.remove();
+            result.add(current);
+            // appending 0 and 1 for next numbers
+            queue.add(current+ "0");
+            queue.add(current+ "1");
+        }
+
+        System.out.println("Binary Numbers: "+ result);
+    }
+}
